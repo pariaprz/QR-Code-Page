@@ -1,0 +1,50 @@
+/*font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+*/
+
+/******************************Tag Selection*****************************/
+
+body{
+  background-color: #d5e1ef;
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+
+}
+
+img{
+  width:280px;
+  margin-top: 15px;
+  border-radius: 8px;
+}
+h2{
+  width: 90%;
+  margin-left:20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 700 ;
+  color: #293755;
+
+}
+
+p{
+  width: 77%;
+  margin-left: 40px;
+  margin-top: 0;
+  font-weight: 400;
+  color: #798592;
+
+}
+
+/*****************************Class Selection***************************/
+
+
+
+.QR{
+  width: 317px;
+  height: 496px;
+  background-color: #fefffc;
+  border-radius: 20px;
+  margin: 140px auto;
+
+}
